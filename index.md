@@ -1,4 +1,4 @@
-## Welcome to Byetnet.com Gits
+## Welcome to Byetnet.com Free Html To xml converter(parser) web tool.
 
 This is Html to xml parser code converter tool. You can use it to parse your html code in xml source. Some like blogger and other support xml code instead of html and php so use this tool and feal free.
 
