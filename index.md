@@ -1,8 +1,6 @@
 ## Welcome to Byetnet.com Gits
 
-You can use the [editor on GitHub](https://github.com/byetnetcom/Html-xml/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Html to xml parser code converter tool. You can use it to parse your html code in xml source. Some like blogger and other support xml code instead of html and php so use this tool and feal free.
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="b-c-c">
